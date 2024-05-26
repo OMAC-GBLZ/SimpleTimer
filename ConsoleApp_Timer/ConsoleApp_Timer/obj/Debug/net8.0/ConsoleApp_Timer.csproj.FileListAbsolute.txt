@@ -1,0 +1,15 @@
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\bin\Debug\net8.0\ConsoleApp_Timer.exe
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\bin\Debug\net8.0\ConsoleApp_Timer.deps.json
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\bin\Debug\net8.0\ConsoleApp_Timer.runtimeconfig.json
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\bin\Debug\net8.0\ConsoleApp_Timer.dll
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\bin\Debug\net8.0\ConsoleApp_Timer.pdb
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\obj\Debug\net8.0\ConsoleApp_Timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\obj\Debug\net8.0\ConsoleApp_Timer.AssemblyInfoInputs.cache
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\obj\Debug\net8.0\ConsoleApp_Timer.AssemblyInfo.cs
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\obj\Debug\net8.0\ConsoleApp_Timer.csproj.CoreCompileInputs.cache
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\obj\Debug\net8.0\ConsoleApp_Timer.dll
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\obj\Debug\net8.0\refint\ConsoleApp_Timer.dll
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\obj\Debug\net8.0\ConsoleApp_Timer.pdb
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\obj\Debug\net8.0\ConsoleApp_Timer.genruntimeconfig.cache
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\obj\Debug\net8.0\ref\ConsoleApp_Timer.dll
+C:\Users\Odhran\source\repos\ConsoleApp_Timer\ConsoleApp_Timer\obj\Debug\net8.0\ConsoleApp_Timer.sourcelink.json
